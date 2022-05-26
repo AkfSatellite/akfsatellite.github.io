@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/mobileApp", {data:[{}],fetch:{},mutations:void 0});
